@@ -12,6 +12,14 @@ title: Pickle
 > **Why “Pickle”?**  
 > In hospitals, the “pickle” is slang for the on-call phone—passed between residents, nurses, and staff responsible for urgent care. We’re reclaiming the term with a digital twist: a chatbot that’s always on-call. 📟🥒
 
+## 💖 Our Inspiration
+
+Pickle was born out of caring for patients recovering from breast reconstruction—brave, resilient individuals sent home with a packet of papers and a long list of worries. Many told us how they struggled with nausea and pain that changed hour by hour, and how they weren’t sure what was normal. They had simple questions that felt too small to call about—or too urgent to wait until office hours. They told us about sitting on hold, waiting to speak to someone. About calling the hospital overnight and being bounced between operators. About how alone recovery can feel.
+
+And on the provider side? We were staring into a black box. Between the moment a patient left the operating room and their first follow-up days or weeks later, we had almost no visibility. How much were their drains putting out? Was their pain actually controlled? Were they following our instructions—or Googling their way through recovery? This “great unknown” made it difficult to intervene early, to educate meaningfully, or to truly support our patients when they needed it most.
+
+We believe no one should feel that way after surgery. Pickle is our answer—a tool that offers guidance when it’s needed most, and opens a direct, compassionate line between patients and their care teams.
+
 ## 🧠 What We Do
 
 Pickle is building an AI-powered medical chatbot to support patients before and after surgery. Our assistant guides patients through both preparation and recovery, simplifies instructions, answers questions in real time, and monitors symptoms to flag complications early—all without missing a beat.
