@@ -7,7 +7,7 @@ title: Pickle
   <img src="/pickle%20logo%20small.png" alt="Pickle logo" style="max-width: 150px; margin-bottom: 1rem;" />
 </div>
 
-*🥒 AI-driven pre- and postoperative care assistant—because recovery (and preparation) shouldn’t leave you in a pickle!*
+*🥒 Provider-driven pre- and postoperative care assistant—because surgery shouldn’t leave you in a pickle!*
 
 > **Why “Pickle”?**  
 > In hospitals, the “pickle” is slang for the on-call phone—passed between residents, nurses, and staff responsible for urgent care. We’re reclaiming the term with a digital twist: a chatbot that’s always on-call. 📟🥒
