@@ -46,7 +46,7 @@ Pickle isn’t just a chatbot—it’s a companion through the care journey. For
 
 We’re a small but mighty team of clinicians, patients, and engineers building Pickle from lived experience. We know what it’s like to be on-call, to get the 3AM “is this normal?” text, and to wish you could clone yourself during discharge. Now we’re building the tool we always wished we had. 🛠️💚
 
-**Janina Kueper** – *Surgical Lead*  
+**Janina Küper** – *Surgical Lead*  
 Janina is a medical doctor and researcher who brings clinical depth and empathy to Pickle’s design. She ensures that the chatbot aligns with the complex needs of surgical recovery and patient experience.
 
 **Daniel Zautner** – *Technical Lead*  
